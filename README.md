@@ -59,11 +59,16 @@ Bestätige mit Finish.
 Öffne die Datei Frame.java im Paket gui.
 Führe die Datei aus (Run As → Java Application).
 Die grafische Oberfläche startet und du kannst Quizfragen erstellen und verwalten.
+
 ```
 
+---
 
+> ⚠️ Hinweis:  
+> Die aktuelle Version basiert auf Java und wird über die Entwicklungsumgebung gestartet.  
+> In einer zukünftigen Version wird eine ausführbare `.exe`-Datei verfügbar sein, die alle Funktionen als eigenständige Windows-Anwendung bereitstellt – ohne zusätzliche Installation von Java oder IDE.
 
-
+---
 
 
 ## 🤝 Mitwirken
