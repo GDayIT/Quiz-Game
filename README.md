@@ -69,7 +69,9 @@ Die grafische Oberfläche startet und du kannst Quizfragen erstellen und verwalt
 ## 🤝 Mitwirken
 
 Pull Requests sind willkommen!  
-Wenn du größere Änderungen vorschlagen möchtest, eröffne bitte zuerst ein [Issue](httpsüber zu diskutieren.
+
+Wenn du größere Änderungen vorschlagen möchtest, eröffne bitte zuerst ein Issue, um darüber zu diskutieren.
+
 
 Wir freuen uns über Beiträge in folgenden Bereichen:
 - Neue Features oder Panels
