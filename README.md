@@ -59,7 +59,7 @@ Bestätige mit Finish.
 Öffne die Datei Frame.java im Paket gui.
 Führe die Datei aus (Run As → Java Application).
 Die grafische Oberfläche startet und du kannst Quizfragen erstellen und verwalten.
-
+```
 
 
 
