@@ -78,7 +78,7 @@ Pull Requests sind willkommen!
 Wenn du größere Änderungen vorschlagen möchtest, eröffne bitte zuerst ein Issue, um darüber zu diskutieren.
 
 
-Wir freuen uns über Beiträge in folgenden Bereichen:
+Ich rfeue mich über Beiträge in folgenden Bereichen:
 - Neue Features oder Panels
 - Verbesserungen der GUI
 - Bugfixes und Refactoring
