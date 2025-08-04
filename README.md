@@ -31,6 +31,9 @@ ProtoQuizz/
 ├── .gitignore
 ├── .classpath / .project / .settings/
 └── README.md
+```
+
+---
 
 
 > ⚠️ [Achtung / Hinweis] 
