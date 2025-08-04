@@ -87,7 +87,7 @@ Bei Fragen, Ideen oder Feedback kannst du dich gerne melden:
 
 **D.Georgiou**  
 📧 GitHub-Profil  
-📧 [optional: email.bla@fake.de]
+📧 optional: email.bla@fake.de
 
 
 
