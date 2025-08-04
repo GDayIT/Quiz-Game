@@ -33,13 +33,10 @@ ProtoQuizz/
 └── README.md
 
 
-> ⚠️ [**Achtung / Hinweis**] 
+> ⚠️ [Achtung / Hinweis] 
 > Dieses Projekt befindet sich noch in der Entwicklung. Funktionen, Schnittstellen und Datenstrukturen können sich ändern.  
 > Bitte verwende die Anwendung mit Vorsicht und melde unerwartetes Verhalten über ein Issue.
 
-> ⚠️ **Achtung / Hinweis**  
-> Dieses Projekt befindet sich noch in der Entwicklung. Funktionen, Schnittstellen und Datenstrukturen können sich ändern.  
-> Bitte verwende die Anwendung mit Vorsicht und melde unerwartetes Verhalten über ein Issue.
 
 
 ## 🚀 Installation & Ausführung
